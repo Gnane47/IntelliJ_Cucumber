@@ -1,0 +1,796 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 20,
+        "name": "Login",
+        "description": "",
+        "id": "purchasing-clothes-in-automation-practice-website;login;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 9734420500,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user Launches Application Using URL",
+            "match": {
+              "location": "Step_Definition_Automation.user_Launches_Application_Using_URL()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 4200432900,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user Clicks The Sign In Button In Home Page",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Sign_In_Button_In_Home_Page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 143794900,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user Enters The \"Gnane@gmail.com\" Username",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Gnane@gmail.com",
+                  "offset": 17
+                }
+              ],
+              "location": "Step_Definition_Automation.user_Enters_The_Username(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 121818200,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user Enters The \"@1245\" Password",
+            "match": {
+              "arguments": [
+                {
+                  "val": "@1245",
+                  "offset": 17
+                }
+              ],
+              "location": "Step_Definition_Automation.user_Enters_The_Password(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1229550000,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user Clicks The Login Button And Then It Navigates To Dresses Section Page",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Login_Button_And_Then_It_Navigates_To_Dresses_Section_Page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 10,
+            "name": "@automate1"
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "name": "Login",
+        "description": "",
+        "id": "purchasing-clothes-in-automation-practice-website;login;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1840532200,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user Launches Application Using URL",
+            "match": {
+              "location": "Step_Definition_Automation.user_Launches_Application_Using_URL()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1893114000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user Clicks The Sign In Button In Home Page",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Sign_In_Button_In_Home_Page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 148810400,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user Enters The \"testdata47@gmail.com\" Username",
+            "match": {
+              "arguments": [
+                {
+                  "val": "testdata47@gmail.com",
+                  "offset": 17
+                }
+              ],
+              "location": "Step_Definition_Automation.user_Enters_The_Username(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 143001500,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user Enters The \"ACD#45\" Password",
+            "match": {
+              "arguments": [
+                {
+                  "val": "ACD#45",
+                  "offset": 17
+                }
+              ],
+              "location": "Step_Definition_Automation.user_Enters_The_Password(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1551481600,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user Clicks The Login Button And Then It Navigates To Dresses Section Page",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Login_Button_And_Then_It_Navigates_To_Dresses_Section_Page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 10,
+            "name": "@automate1"
+          }
+        ]
+      },
+      {
+        "line": 22,
+        "name": "Login",
+        "description": "",
+        "id": "purchasing-clothes-in-automation-practice-website;login;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1861355400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user Launches Application Using URL",
+            "match": {
+              "location": "Step_Definition_Automation.user_Launches_Application_Using_URL()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2041029600,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user Clicks The Sign In Button In Home Page",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Sign_In_Button_In_Home_Page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 115720800,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user Enters The \"sample@gmail.com\" Username",
+            "match": {
+              "arguments": [
+                {
+                  "val": "sample@gmail.com",
+                  "offset": 17
+                }
+              ],
+              "location": "Step_Definition_Automation.user_Enters_The_Username(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 109501800,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user Enters The \"s@467\" Password",
+            "match": {
+              "arguments": [
+                {
+                  "val": "s@467",
+                  "offset": 17
+                }
+              ],
+              "location": "Step_Definition_Automation.user_Enters_The_Password(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1395566400,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user Clicks The Login Button And Then It Navigates To Dresses Section Page",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Login_Button_And_Then_It_Navigates_To_Dresses_Section_Page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 10,
+            "name": "@automate1"
+          }
+        ]
+      },
+      {
+        "line": 23,
+        "name": "Login",
+        "description": "",
+        "id": "purchasing-clothes-in-automation-practice-website;login;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1605942400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user Launches Application Using URL",
+            "match": {
+              "location": "Step_Definition_Automation.user_Launches_Application_Using_URL()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2243877300,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user Clicks The Sign In Button In Home Page",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Sign_In_Button_In_Home_Page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 88612400,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user Enters The \"gnani9448@gmail.com\" Username",
+            "match": {
+              "arguments": [
+                {
+                  "val": "gnani9448@gmail.com",
+                  "offset": 17
+                }
+              ],
+              "location": "Step_Definition_Automation.user_Enters_The_Username(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 122506700,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user Enters The \"Gnane@47\" Password",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Gnane@47",
+                  "offset": 17
+                }
+              ],
+              "location": "Step_Definition_Automation.user_Enters_The_Password(String)"
+            },
+            "matchedColumns": [
+              1
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2406467300,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user Clicks The Login Button And Then It Navigates To Dresses Section Page",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Login_Button_And_Then_It_Navigates_To_Dresses_Section_Page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 10,
+            "name": "@automate1"
+          }
+        ]
+      },
+      {
+        "line": 26,
+        "name": "Purchasing a dress",
+        "description": "",
+        "id": "purchasing-clothes-in-automation-practice-website;purchasing-a-dress",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4175426900,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "user Clicks The Dresses",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Dresses()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1997869600,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "user Clicks The Evening Dresses",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Evening_Dresses()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3127883600,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "user Clicks The Printed Dresses",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Printed_Dresses()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1077671100,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "user Select The Quantity",
+            "match": {
+              "location": "Step_Definition_Automation.user_Select_The_Quantity()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 152318000,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "user Select The \"M\" As Size",
+            "match": {
+              "arguments": [
+                {
+                  "val": "M",
+                  "offset": 17
+                }
+              ],
+              "location": "Step_Definition_Automation.user_Select_The_As_Size(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 162953400,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "user Select The Color",
+            "match": {
+              "location": "Step_Definition_Automation.user_Select_The_Color()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2158528600,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "user Clicks The Addtocart Button",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Addtocart_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3454095800,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "user Clicks The Proceed to Checkout Button",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Proceed_to_Checkout_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2235204900,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "user Verifies The Quantity And Click Proceed To Checkout Button",
+            "match": {
+              "location": "Step_Definition_Automation.user_Verifies_The_Quantity_And_Click_Proceed_To_Checkout_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1761393700,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "user Verifies The Address and Click Proceed To Checkout Button",
+            "match": {
+              "location": "Step_Definition_Automation.user_Verifies_The_Address_and_Click_Proceed_To_Checkout_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 128716100,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "user Accepts The Terms And Conditions",
+            "match": {
+              "location": "Step_Definition_Automation.user_Accepts_The_Terms_And_Conditions()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2032680300,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "user Clicks Proceed To Checkout Button",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_Proceed_To_Checkout_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1719517500,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "user Clicks Paybybank Wire Button",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_Paybybank_Wire_Button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11170653400,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "user Clicks Confirm Order Button and Navigates To Order Confirmation Page",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_Confirm_Order_Button_and_Navigates_To_Order_Confirmation_Page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 25,
+            "name": "@automate2"
+          }
+        ]
+      },
+      {
+        "line": 43,
+        "name": "Purchasing 2nd product",
+        "description": "",
+        "id": "purchasing-clothes-in-automation-practice-website;purchasing-2nd-product",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2680053400,
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "user Clicks The Logo",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Logo()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2381909900,
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "user Clicks The Tshirts",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Tshirts()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2236096300,
+              "status": "passed"
+            },
+            "line": 46,
+            "name": "user Clicks The Tshirtstype",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Tshirtstype()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 991250100,
+              "status": "passed"
+            },
+            "line": 47,
+            "name": "user Select The Quantity_tshirt",
+            "match": {
+              "location": "Step_Definition_Automation.user_Select_The_Quantity_tshirt()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 125522200,
+              "status": "passed"
+            },
+            "line": 48,
+            "name": "user Select The \"L\" As Size_tshirt",
+            "match": {
+              "arguments": [
+                {
+                  "val": "L",
+                  "offset": 17
+                }
+              ],
+              "location": "Step_Definition_Automation.user_Select_The_As_Size_tshirt(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 151128800,
+              "status": "passed"
+            },
+            "line": 49,
+            "name": "user Select The Color_tshirt",
+            "match": {
+              "location": "Step_Definition_Automation.user_Select_The_Color_tshirt()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2160456500,
+              "status": "passed"
+            },
+            "line": 50,
+            "name": "user Clicks The Addtocart Button_tshirt",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Addtocart_Button_tshirt()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1706679600,
+              "status": "passed"
+            },
+            "line": 51,
+            "name": "user Clicks The Proceed to Checkout Button_tshirt",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Proceed_to_Checkout_Button_tshirt()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1585531000,
+              "status": "passed"
+            },
+            "line": 52,
+            "name": "user Verifies The Quantity And Click Proceed To Checkout Button_tshirt",
+            "match": {
+              "location": "Step_Definition_Automation.user_Verifies_The_Quantity_And_Click_Proceed_To_Checkout_Button_tshirt()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1291223000,
+              "status": "passed"
+            },
+            "line": 53,
+            "name": "user Verifies The Address And Click Proceed To Checkout Button_tshirt",
+            "match": {
+              "location": "Step_Definition_Automation.user_Verifies_The_Address_And_Click_Proceed_To_Checkout_Button_tshirt()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 123419400,
+              "status": "passed"
+            },
+            "line": 54,
+            "name": "user Accepts The Terms and Conditions_tshirt",
+            "match": {
+              "location": "Step_Definition_Automation.user_Accepts_The_Terms_and_Conditions_tshirt()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2310106600,
+              "status": "passed"
+            },
+            "line": 55,
+            "name": "user Clicks The Proceed To Checkout Button_tshirts",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Proceed_To_Checkout_Button_tshirts()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1330234900,
+              "status": "passed"
+            },
+            "line": 56,
+            "name": "user Clicks The Paybybank Wire Button_tshirt",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Paybybank_Wire_Button_tshirt()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2965658100,
+              "status": "passed"
+            },
+            "line": 57,
+            "name": "user Clicks The Confirm Order Button_tshirt",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Confirm_Order_Button_tshirt()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 42,
+            "name": "@automate3"
+          }
+        ]
+      },
+      {
+        "line": 60,
+        "name": "Booking History",
+        "description": "",
+        "id": "purchasing-clothes-in-automation-practice-website;booking-history",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7802590600,
+              "status": "passed"
+            },
+            "line": 61,
+            "name": "user Clicks The Myorders_Page",
+            "match": {
+              "location": "Step_Definition_Automation.user_Clicks_The_Myorders_Page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 59,
+            "name": "@automate4"
+          }
+        ]
+      }
+    ],
+    "name": "Purchasing clothes in automation practice website",
+    "description": "",
+    "id": "purchasing-clothes-in-automation-practice-website",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/feature/auto/automation.feature"
+  }
+]
